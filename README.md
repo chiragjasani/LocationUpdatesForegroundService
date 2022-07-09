@@ -12,11 +12,10 @@ Best practices in location APIs on Android.
 
 <!-- # ![Screenshot_20220224_151617](https://user-images.githubusercontent.com/17252967/155500447-c7a404fc-048a-42e0-a334-ee647d1fd8c6.png) -->
 <div>
-    <img src="https://raw.githubusercontent.com/chiragjasani/LocationUpdatesForegroundService/main/images/0.PNG"  height="250" width="125" />
-    <img src="https://raw.githubusercontent.com/chiragjasani/LocationUpdatesForegroundService/main/images/1.PNG" height="250" width="125" />
-    <img src="https://raw.githubusercontent.com/chiragjasani/LocationUpdatesForegroundService/main/images/2.PNG" height="250" width="125" />
-    <img src="https://raw.githubusercontent.com/chiragjasani/LocationUpdatesForegroundService/main/images/3.PNG" height="250" width="125" />
-    <img src="https://raw.githubusercontent.com/chiragjasani/LocationUpdatesForegroundService/main/images/4.PNG" height="250" width="125" />
-    <img src="https://raw.githubusercontent.com/chiragjasani/LocationUpdatesForegroundService/main/images/5.PNG" height="250" width="125" />
+    <img src="https://raw.githubusercontent.com/chiragjasani/LocationUpdatesForegroundService/main/images/0.PNG"  height="450" width="350" />
+    <img src="https://raw.githubusercontent.com/chiragjasani/LocationUpdatesForegroundService/main/images/1.PNG" height="450" width="350" />
+    <img src="https://raw.githubusercontent.com/chiragjasani/LocationUpdatesForegroundService/main/images/3.PNG" height="450" width="350" />
+    <img src="https://raw.githubusercontent.com/chiragjasani/LocationUpdatesForegroundService/main/images/4.PNG" height="450" width="350" />
+    <img src="https://raw.githubusercontent.com/chiragjasani/LocationUpdatesForegroundService/main/images/5.PNG" height="450" width="350" />
 </div>
 
